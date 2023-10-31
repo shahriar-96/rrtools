@@ -4,7 +4,7 @@
 [![R-CMD-check](https://github.com/benmarwick/rrtools/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/benmarwick/rrtools/actions/workflows/R-CMD-check.yaml)
 [![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/benmarwick/rrtools/master?urlpath=rstudio)
   <!-- badges: end -->
-
+[![fair-software.eu](https://img.shields.io/badge/fair--software.eu-%E2%97%8F%20%20%E2%97%8F%20%20%E2%97%8B%20%20%E2%97%8B%20%20%E2%97%8B-orange)](https://fair-software.eu)
 ## Motivation
 
 The goal of **rrtools** is to provide instructions, templates, and functions for making a basic compendium suitable for writing a reproducible journal article or report with [R](https://www.r-project.org). This package documents the key steps and provides convenient functions for quickly creating a new research compendium. The approach is based on [Marwick (2017)](https://doi.org/10.1007/s10816-015-9272-9), [Marwick et al. (2018)](https://doi.org/10.7287/peerj.preprints.3192v1), and [Wickham’s (2017)](https://docs.google.com/document/d/1LzZKS44y4OEJa4Azg5reGToNAZL0e0HSUwxamNY7E-Y/edit#) work using the R package structure as the basis for a research compendium.
